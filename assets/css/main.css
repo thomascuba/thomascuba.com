@@ -1788,7 +1788,7 @@ input, select, textarea {
 
 			.image.centered img {
 				margin: 0 auto;
-				width: auto;
+				width: 75%;
 			}
 
 /* List */
@@ -2247,8 +2247,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-color: #222729;
 			}
 
 			#main > section.two {
